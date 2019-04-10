@@ -1,7 +1,14 @@
 package projetGP;
 
 public class OffreDeStage {
-	String descriptif;
+	private String descriptif;
+	private int id;
+	
+	public OffreDeStage(int newID) {
+		this.id = newID;
+		this.descriptif = "test projet";
+	}
+	
 	
 
 }
