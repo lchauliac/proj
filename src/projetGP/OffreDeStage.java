@@ -8,6 +8,7 @@ public class OffreDeStage {
 		this.id = newID;
 		this.descriptif = "test projet";
 	}
+	//hello
 	
 	
 
